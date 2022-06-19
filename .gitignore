@@ -1,0 +1,6 @@
+.idea
+libs
+bin
+!bin/.keep
+!libs/.keep
+!bin/obj/.keep
